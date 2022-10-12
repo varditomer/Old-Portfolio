@@ -19,8 +19,8 @@ function _createProjects() {
                 name: "Minesweeper",
                 title: "Be careful, mines around! 💥",
                 desc: "lorem ipsum lorem ipsum lorem ipsum",
-                url: "projs/sokoban",
-                publishedAt: 1448693940000,
+                url: "https://varditomer.github.io/Minesweeper/",
+                publishedAt: 1664056800,
                 labels: ["Matrixes", "keyboard events"],
             },
             {
@@ -29,7 +29,7 @@ function _createProjects() {
                 title: "Beware of those ghosts! 👻",
                 desc: "lorem ipsum lorem ipsum lorem ipsum",
                 url: "https://varditomer.github.io/Packman/",
-                publishedAt: 1448693940000,
+                publishedAt: 1663612200,
                 labels: ["Matrixes", "keyboard events"],
             },
             {
@@ -38,7 +38,7 @@ function _createProjects() {
                 title: "Youv'e to eat them all! 🍴",
                 desc: "lorem ipsum lorem ipsum lorem ipsum",
                 url: "https://varditomer.github.io/Ballboard/",
-                publishedAt: 1448693940000,
+                publishedAt: 1663525800,
                 labels: ["Matrixes", "keyboard events"],
             },
             {
@@ -47,7 +47,7 @@ function _createProjects() {
                 title: "Recognize this F1 driver? 🚗",
                 desc: "lorem ipsum lorem ipsum lorem ipsum",
                 url: "https://varditomer.github.io/Guess-the-picture/",
-                publishedAt: 1448693940000,
+                publishedAt: 1663268400,
                 labels: ["Matrixes", "keyboard events"],
             },
             {
@@ -56,7 +56,7 @@ function _createProjects() {
                 title: "Handeling your bookstore? 📚",
                 desc: "lorem ipsum lorem ipsum lorem ipsum",
                 url: "https://varditomer.github.io/My-Bookshop/",
-                publishedAt: 1448693940000,
+                publishedAt: 1665082800,
                 labels: ["Matrixes", "keyboard events"],
             },
             {
@@ -65,7 +65,7 @@ function _createProjects() {
                 title: "Always remember! 🤔",
                 desc: "lorem ipsum lorem ipsum lorem ipsum",
                 url: "projs/sokoban",
-                publishedAt: 1448693940000,
+                publishedAt: 1663254900,
                 labels: ["Matrixes", "keyboard events"],
             },
             

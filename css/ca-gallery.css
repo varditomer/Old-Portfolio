@@ -100,7 +100,7 @@ body {
 .offcanvas-aside {
     position: fixed;
     height: 100%;
-    background: red;
+    background: lightcyan;
     width: 80vw;
     right: -80vw;
     z-index: 10;
@@ -137,6 +137,14 @@ body {
 .offcanvas-aside-open {
     right: 0;
 
+}
+
+.contact-me label {
+    font-weight: 800;
+}
+
+.contact-me h4 {
+    text-decoration: underline;
 }
 
 #mainNav {
@@ -277,6 +285,8 @@ header.masthead .intro-text .intro-heading {
         text-transform: uppercase;
     }
 }
+
+
 
 .service-heading {
     margin: 15px 0;
