@@ -82,12 +82,15 @@ function addEventListeners(){
 }
 
 function onContactMe(){
+    
     const userEmail = $('.contact-me .email').val()
     const messageSubject = $('.contact-me .subject').val()
     const messageBody = $('.contact-me .message-body').val()
 
-    const emailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${userEmail}&su=${messageSubject}&body=${messageBody}`
+    const emailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=tomer.vardi@gmail.com&su=${messageSubject}&body=${messageBody}`
 
-    window.open(emailUrl, '_blank');
+    window.open(emailUrl, '_blank')
+
+    openCanvas()
 
 }
