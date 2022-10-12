@@ -96,11 +96,25 @@
           <span class="title-word title-word-3">my</span>
           <span class="title-word title-word-4">Portfolio</span>
         </div>
-        <div class="intro-heading">It's Nice To Meet You</div>
+        <div id="container">
+          <span id="text1"></span>
+          <span id="text2"></span>
+        </div>
         <a class="btn btn-xl js-scroll-trigger" href="#services">Tell Me More</a>
       </div>
     </div>
   </header>
+
+  <svg id="filters">
+    <defs>
+        <filter id="threshold">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0
+                  0 1 0 0 0
+                  0 0 1 0 0
+                  0 0 0 255 -140" />
+        </filter>
+    </defs>
+</svg>
 
   <!-- Services -->
   <a name="services"></a>
