@@ -246,7 +246,7 @@ header.masthead .intro-text {
 }
 
 header.masthead .intro-text .intro-lead-in {
-    font-size: 22px;
+    font-size: 1.5em;
     font-style: italic;
     line-height: 22px;
     margin-bottom: 25px;
@@ -985,18 +985,14 @@ body {
     height: 80pt;
     top: 0;
     bottom: 0;
-
     filter: url(#threshold) blur(0.6px);
 }
 
 #text1,
 #text2 {
-    /* position: absolute; */
     width: 100%;
-    /* display: inline-block; */
-
     font-family: "Raleway", sans-serif;
-    font-size: 80pt;
+    font-size: 4em;
 
     text-align: center;
 
